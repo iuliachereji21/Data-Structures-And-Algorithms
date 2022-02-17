@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1588352271 source:d:\facultate assignments\chereji_iulia_9_1\module.c
+	<stdio.h>
+	<stdlib.h>
+	"module.h"
+
+1588352138 d:\facultate assignments\chereji_iulia_9_1\module.h
+	<stdio.h>
+	<stdlib.h>
+
+1588357899 source:d:\facultate assignments\chereji_iulia_9_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"module.h"
+

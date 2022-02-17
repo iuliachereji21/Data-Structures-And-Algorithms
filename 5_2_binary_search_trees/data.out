@@ -1,0 +1,16 @@
+Preorder:
+ D  B   A   C  V   P
+Postorder:
+   A   C  B   P  V D
+Inorder:
+   A  B   C D   P  V
+Node E not found
+Node with minimum value = A
+Node with maximum value = V
+Node with key = E not found to delete
+Preorder:
+ D  B   A   C  V   P
+Node with key = A was deleted
+Node with key = D was deleted
+Preorder:
+ P  B   C  V

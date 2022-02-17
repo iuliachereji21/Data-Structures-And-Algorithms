@@ -1,0 +1,20 @@
+Couldn't insert name 'Chereji Iulia' into table
+
+16: Lup Lucia, 
+30: Suciu Razvan, Rares Aurora, 
+35: Chereji Iulia, 
+42: Cublesan Elena, 
+48: Bucur Alexandra, 
+
+Yes, name 'Chereji Iulia' found at index 35
+No, name 'Rus Dan' not found
+Name 'Suciu Razvan' deleted
+
+16: Lup Lucia, 
+30: Rares Aurora, 
+35: Chereji Iulia, 
+42: Cublesan Elena, 
+48: Bucur Alexandra, 
+
+Name 'Mocan Rares' is not in the table to delete
+Name 'Rus Dan' is not in the table to delete

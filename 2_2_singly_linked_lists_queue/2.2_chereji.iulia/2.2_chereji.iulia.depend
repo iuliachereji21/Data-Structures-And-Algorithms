@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1583020455 source:d:\laboratoare an1sem1\2.2_chereji.iulia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1583024055 source:d:\facultate assignments\chereji_iulia_2\chereji_iulia_2\2.2_chereji.iulia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

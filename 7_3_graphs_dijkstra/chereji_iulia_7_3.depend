@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1591198081 source:d:\facultate assignments\chereji_iulia_7_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"module3.h"
+
+1591197194 d:\facultate assignments\chereji_iulia_7_3\module3.h
+	<stdio.h>
+	<stdlib.h>
+
+1591197326 source:d:\facultate assignments\chereji_iulia_7_3\module3.c
+	<stdio.h>
+	<stdlib.h>
+	"module3.h"
+
